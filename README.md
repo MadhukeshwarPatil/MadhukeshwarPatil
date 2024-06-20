@@ -1,3 +1,5 @@
+<div style="background-color: #293548; color: #c9d1d9; padding: 20px; border-radius: 10px;">
+
 # Madhukeshwar Patil | Senior Software Engineer
 
 <!--![Profile](https://img.shields.io/badge/Senior%20Software%20Engineer%20-Expert-blue)-->
@@ -43,9 +45,9 @@ Welcome to my GitHub profile! I'm Madhukeshwar Patil, a dedicated Senior Softwar
 
 ## Projects
 
-- **📈 Financial Data Pipeline**: Developed scalable ETL pipelines for real-time data processing using Apache Airflow and Python.
-- **🏥 Healthcare Data Lake**: Implemented data lake architecture using AWS S3 and Spark for advanced analytics.
-- **🛒 E-commerce Workflow Automation**: Automated data workflows with Apache Airflow, improving data processing efficiency and reliability.
+- **📈 Transaction Data Analysis**: Developed pipelines for real-time transaction data analysis using Apache Kafka and Spark.
+- **📊 Customer Segmentation**: Implemented data warehouse solutions for customer segmentation and targeted marketing campaigns.
+- **🔄 Data Integration**: Automated data integration workflows with Apache Airflow to improve operational efficiency.
 
 ## Let's Connect
 
@@ -55,9 +57,8 @@ Welcome to my GitHub profile! I'm Madhukeshwar Patil, a dedicated Senior Softwar
 ## GitHub Stats
 
 ![Madhukeshwar Patil's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical&title_color=fff&text_color=fff&icon_color=fff&bg_color=000)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername/github-readme-stats)
-
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername/github-readme-stats)-->
+</div>
 <!--
 **MadhukeshwarPatil/MadhukeshwarPatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
