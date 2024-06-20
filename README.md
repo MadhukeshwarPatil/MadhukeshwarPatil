@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I'm Madhukeshwar Patil, a dedicated Senior Softwar
 
 ## GitHub Stats
 
-![Madhukeshwar Patil's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical&title_color=fff&text_color=fff&icon_color=fff&bg_color=000)
+![Madhukeshwar Patil's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadhukeshwarPatil&show_icons=true&hide_border=true&theme=radical&title_color=fff&text_color=fff&icon_color=fff&bg_color=000)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername/github-readme-stats)-->
 </div>
 <!--
