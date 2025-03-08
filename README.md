@@ -1,6 +1,6 @@
 <div style="background-color: #293548; color: #c9d1d9; padding: 20px; border-radius: 10px;">
 
-# Madhukeshwar Patil | Senior Software Engineer
+# Madhukeshwar Patil | Technical Lead
 
 <!--![Profile](https://img.shields.io/badge/Senior%20Software%20Engineer%20-Expert-blue)-->
 ![Profile](https://img.shields.io/badge/Senior%20Software%20Engineer%20-%20Expert)
