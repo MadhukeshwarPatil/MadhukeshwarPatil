@@ -3,7 +3,7 @@
 # Madhukeshwar Patil | Technical Lead
 
 <!--![Profile](https://img.shields.io/badge/Senior%20Software%20Engineer%20-Expert-blue)-->
-![Profile](https://img.shields.io/badge/Senior%20Software%20Engineer%20-%20Expert)
+![Profile](https://img.shields.io/badge/Technical%20Lead%20-%20Expert)
 
 
 Welcome to my GitHub profile! I'm Madhukeshwar Patil, a dedicated Senior Software Engineer specializing in designing and implementing scalable data pipelines and analytics solutions. With a strong background in finance, healthcare, and e-commerce industries, I excel in leveraging data to drive strategic business decisions and optimize performance.
