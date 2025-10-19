@@ -1,0 +1,9 @@
+<?xml-stylesheet href="themes/palette-dark.css" type="text/css"?>
+<svg viewBox="0 0 1200 80" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="80" fill="var(--bg2)"/>
+  <text x="600" y="50" text-anchor="middle"
+        font-family="Inter,Segoe UI,Arial"
+        font-size="16" fill="var(--text-sub)">
+    © 2025 Madhukeshwar G. Patil — Designed with LiveMD
+  </text>
+</svg>

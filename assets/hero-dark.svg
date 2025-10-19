@@ -1,0 +1,16 @@
+<?xml-stylesheet href="themes/palette-dark.css" type="text/css"?>
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bggrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="var(--accent1)"/>
+      <stop offset="100%" stop-color="var(--accent2)"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bggrad)" rx="20"/>
+  <text x="100" y="150" font-family="Inter,Segoe UI,Arial" font-size="56"
+        font-weight="700" fill="var(--text-main)">Madhukeshwar G. Patil</text>
+  <text x="100" y="200" font-family="Inter,Segoe UI,Arial" font-size="22"
+        fill="var(--text-sub)">Technical Lead • Cloud &amp; DevOps</text>
+  <text x="100" y="240" font-family="Inter,Segoe UI,Arial" font-size="18"
+        fill="var(--text-sub)">madhukeshwarpatil@gmail.com</text>
+</svg>

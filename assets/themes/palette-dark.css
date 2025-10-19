@@ -1,0 +1,10 @@
+:root {
+  --bg1: #0f0c29;
+  --bg2: #302b63;
+  --text-main: #f9fafb;
+  --text-sub: #c7c9d1;
+  --accent1: #7b2ff7;
+  --accent2: #00d4ff;
+  --glass: rgba(255,255,255,0.06);
+  --glass-border: rgba(255,255,255,0.15);
+}
